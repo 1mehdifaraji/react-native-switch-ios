@@ -1,0 +1,33 @@
+{
+  "name": "react-native-switch-ios",
+  "version": "1.0.0",
+  "description": "React native iOS switch component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1mehdifaraji/react-native-switch-ios.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "ios",
+    "mobile",
+    "switch",
+    "customisable",
+    "react-native-switch",
+    "react-native-switch-ios"
+  ],
+  "author": "Mehdi Faraji <mahdifarajideveloper@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.29"
+  },
+  "bugs": {
+    "url": "https://github.com/1mehdifaraji/react-native-switch-ios/issues"
+  },
+  "homepage": "https://github.com/1mehdifaraji/react-native-switch-ios#readme"
+}
