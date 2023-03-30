@@ -28,7 +28,7 @@ pnpm add react-native-switch-ios
 
 ### Usage
 
-```typescript
+```javascript
 import { useState } from "react";
 import { Switch } from "react-native-switch-ios";
 
