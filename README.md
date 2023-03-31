@@ -44,3 +44,6 @@ export const App = () => {
   )
 };
 ```
+## Developer
+
+[@1mehdifaraji](https://github.com/1mehdifaraji)
