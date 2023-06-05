@@ -37,7 +37,7 @@ export const App = () => {
   return (
       <Switch
          inactiveBgColor="#7d7d7d"
-         activeBgColor"#34c759"
+         activeBgColor="#34c759"
          isOn={toggle}
          onToggle={() => setToggle((prev) => !prev)} 
       />
